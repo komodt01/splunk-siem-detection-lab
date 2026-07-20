@@ -6,6 +6,10 @@ Organizations depend on Security Information and Event Management (SIEM) platfor
 
 This project documents the design and implementation of a local Splunk Enterprise SIEM laboratory. The objective is not simply to install Splunk, but to demonstrate the architectural thought process behind building an enterprise security monitoring capability.
 
+## Architecture
+
+![Splunk SIEM Detection Lab Architecture](architecture/splunk-siem-detection-lab-architecture.png)
+
 ## Architecture Lens
 
 Throughout this project every major design decision is evaluated using the following criteria:
