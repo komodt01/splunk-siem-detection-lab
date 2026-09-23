@@ -55,4 +55,4 @@ This approach was selected because it:
 
 The environment is suitable for the planned local Splunk SIEM Detection Lab.
 
-**Assessment result: Approved to proceed**
+**Assessment result: Environment suitable to proceed**
